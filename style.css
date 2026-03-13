@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Кінотеатр Aurora Cinema</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Кінотеатр "Aurora Cinema"</h1>
+    <p>Найкращі прем'єри на великому екрані</p>
+</header>
+
+<nav class="menu">
+    <a href="#afisha">Афіша</a>
+    <a href="#sessions">Сеанси</a>
+    <a href="#tickets">Квитки</a>
+    <a href="#contacts">Контакти</a>
+</nav>
+
+<!-- ТУТ ВСТАВЛЯЄШ СВІЙ <main> -->
